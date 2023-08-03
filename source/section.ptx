@@ -1,0 +1,8 @@
+<section xml:id="section-title">
+    <title>Section title</title>
+    <p>Hello</p>
+    <p><me>\frac{x^2+y^2}{2}=z^2</me></p>
+    <image source="prose-consortium-rect.png" width="90%">
+      <description>it's a picture</description>
+    </image>
+  </section>
